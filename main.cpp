@@ -24,7 +24,7 @@ int main(int argc, char** argv){
         }
     }
 
-    char ch[] = {' ', ':', '~', '*', ':', 'i', '+', 'I', '$', '#', };
+    char ch[] = {' ', ':', '~', '*', ':', 'i', '+', 'I', '$', '#' };
 
     ofstream file;
     file.open(argv[2]);
